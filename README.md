@@ -1,13 +1,11 @@
 # 🤖 Language-Grounded Robot Autonomy
 
-<p align="center">
-  <a href="docs/videos/robot-demo-with-speech.mp4">
-    <img src="docs/images/hero-ui-overview.png" alt="Language-Grounded Robot Autonomy UI Overview" width="100%" />
-  </a>
-</p>
+[![Language-Grounded Robot Autonomy UI Overview](docs/images/hero-ui-overview.png)](https://github.com/promzyadiole/Language-Grounded-Robot-Autonomy/blob/main/docs/videos/robot-demo-with-speech.mp4)
+
 <p align="center">
   <em>Click the image to watch the full demo video.</em>
 </p>
+
 
 <p align="center">
   <strong>A full-stack robot command framework that connects natural language, multimodal perception, ROS 2 navigation, speech input, and a modern web interface.</strong>
