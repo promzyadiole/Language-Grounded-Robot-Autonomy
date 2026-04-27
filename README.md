@@ -1,7 +1,12 @@
 # 🤖 Language-Grounded Robot Autonomy
 
 <p align="center">
-  <img src="docs/images/hero-ui-overview.png" alt="Language-Grounded Robot Autonomy UI Overview" width="100%" />
+  <a href="docs/videos/robot-demo-with-speech.mp4">
+    <img src="docs/images/hero-ui-overview.png" alt="Language-Grounded Robot Autonomy UI Overview" width="100%" />
+  </a>
+</p>
+<p align="center">
+  <em>Click the image to watch the full demo video.</em>
 </p>
 
 <p align="center">
